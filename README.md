@@ -2,6 +2,7 @@
 
 宇宙船を発射してその軌道を眺めることができるSpace OrbitをM5Stackに実装しました。<br>
 地球と月の重力に従って宇宙船が動き、その軌道を楽しむことができます。<br>
+![image](https://github.com/user-attachments/assets/52f2ccf7-321f-42cc-93db-9a3403cbbb03)
 
 ## 概要
 @Toshiya_A氏が開発した未就学児向け軌道設計アプリケーションSpace Orbit、<br>
