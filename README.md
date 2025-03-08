@@ -4,6 +4,8 @@
 地球と月の重力に従って宇宙船が動き、その軌道を楽しむことができます。<br>
 ![image](https://github.com/user-attachments/assets/52f2ccf7-321f-42cc-93db-9a3403cbbb03)
 
+https://x.com/anoken2017/status/1898161624269349091
+
 ## 概要
 @Toshiya_A氏が開発した未就学児向け軌道設計アプリケーションSpace Orbit、<br>
 @jishiha氏が開発したSpace OrbitのJavaScript実装版、を参考にM5Stackに実装しました。<br>
